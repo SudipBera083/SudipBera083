@@ -1,6 +1,6 @@
 # Hi there, I'm Sudip Bera 👋
 
-**Software Developer | Python Enthusiast | IoT Learner**
+**Software Developer | Python Enthusiast | Oracle Cloud Developer| SQL | PLSQL**
 
 📍 **Kolkata, India**  
 🕒 **Timezone: UTC -12:00**  
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a strong interest in **Python** and **web development**. I'm currently exploring the fascinating world of **IoT (Internet of Things)** and always looking to collaborate on exciting projects in **Python3** and **Java**. I believe in the mantra: 
+Experienced in SQL, PL/SQL, HTML, CSS, Python, Django, Oracle Cloud HCM, and Oracle Integration Cloud. Skilled in Fast Formulas, Extracts, BIP, Data Models, MS SQL Server, and C#. I build dynamic web solutions and optimize cloud systems for impactful results.
 
 > **"Talk is cheap. Show me your code."**
 
@@ -19,9 +19,11 @@ I'm a passionate software developer with a strong interest in **Python** and **w
 ## 🛠️ Skills
 
 - **Programming Languages:** Python, Java, C
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, Django
+- **Cloud:** Oracle Cloud HCM, Oracle Integration Cloud
+- **Database:** SQL, PL/SQL
 - **IoT:** Basic knowledge, currently learning
-- **Tools & Technologies:** Git, GitHub, VS Code
+- **Tools & Technologies:** Git, GitHub, VS Code, Android Studio
 
 ---
 
