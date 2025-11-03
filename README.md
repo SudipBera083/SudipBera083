@@ -1,120 +1,74 @@
-# Hi there, I'm Sudip Bera 👋
+<h1 align="center">Hey 👋, I'm Sudip Bera</h1>
 
-**Software Developer | Python Enthusiast | Oracle Cloud Developer| SQL | PLSQL**
-
-📍 **Kolkata, India**  
-🕒 **Timezone: UTC -12:00**  
-📧 **Reach me at:** [sudipbera083@gmail.com](mailto:sudipbera083@gmail.com)
+<p align="center">
+  💻 Full Stack Developer | Oracle HCM Specialist | AI & Django Enthusiast 🚀  
+</p>
 
 ---
 
-## 🚀 About Me
+### 🧠 About Me
 
-Experienced in SQL, PL/SQL, HTML, CSS, Python, Django, Oracle Cloud HCM, and Oracle Integration Cloud. Skilled in Fast Formulas, Extracts, BIP, Data Models, MS SQL Server, and C#. I build dynamic web solutions and optimize cloud systems for impactful results.
-
-> **"Talk is cheap. Show me your code."**
-
----
-
-## 🛠️ Skills
-
-- **Programming Languages:** Python, Java, C
-- **Web Development:** HTML, CSS, JavaScript, Django
-- **Cloud:** Oracle Cloud HCM, Oracle Integration Cloud
-- **Database:** SQL, PL/SQL
-- **IoT:** Basic knowledge, currently learning
-- **Tools & Technologies:** Git, GitHub, VS Code, Android Studio
+- 🔭 I’m currently working at **Cognizant** as a *Programmer Analyst Trainee*  
+- 🧬 Passionate about **AI, Oracle HCM, Django, and Web Development**
+- 🧰 Skilled in:  
+  `Python`, `Django`, `DRF`, `Oracle Cloud HCM`, `ERP`, `SQL`, `PL/SQL`, `HTML`, `CSS`, `JavaScript`
+- 📖 Author of:
+  - *Shadows and Whispers: A Collection of Horror and Mystery Tales*  
+  - *AI and Human: Navigating the Future Together*
+- 🌍 I’m currently building: **Web3 + AI-based Portfolio Projects**
+- 🎯 Goal: To create technology that feels human 🤖❤️
 
 ---
 
-## 🔥 Projects
+### 🛠️ Tech Stack
 
+#### 💡 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🌐 Bonggo_Browser (Public)
-A lightweight web browser built using **Python3** and **PyQt5**. This project demonstrates the integration of the Google search engine into a custom browser interface, showcasing my skills in GUI development and Python programming.
-
-- **Technologies Used:** Python, PyQt5
-- [View Project](https://github.com/SudipBera083/Bonggo_Browser)
-
----
-
-### 🏥 Pathology-Management (Public)
-A **Django-based web application** designed to help local pathology labs manage diagnostic tests, patient records, and generate automated test reports. This system digitizes and streamlines pathology operations, improving efficiency and accuracy.
-
-- **Technologies Used:** Python, Django, HTML, CSS, JavaScript
-- [View Project](https://github.com/SudipBera083/Pathology-Management)
-
----
-
-### 💻 Portfolio_backend (Public)
-The backend component of my personal portfolio website. This project highlights my ability to develop robust and scalable backend systems using modern technologies.
-
-- **Technologies Used:** Python, Django, REST APIs
-- [View Project](https://github.com/SudipBera083/Portfolio_backend)
+#### ⚙️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🔍 BonggoQuery (Public)
-A custom search tool built with **Python** to enhance search functionality and provide a unique user experience. This project reflects my interest in creating efficient and user-friendly tools.
+### 📊 GitHub Stats & Activity
 
-- **Technologies Used:** Python
-- [View Project](https://github.com/SudipBera083/BonggoQuery)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SudipBera083&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SudipBera083&theme=tokyonight" />
+</p>
 
----
-
-### 🎨 portfolio (Public)
-My personal portfolio website showcasing my projects, skills, and professional journey. Designed to be clean, responsive, and visually appealing.
-
-- **Technologies Used:** HTML, CSS, JavaScript
-- [View Project](https://github.com/SudipBera083/portfolio)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudipBera083&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SudipBera083&theme=tokyonight" />
+</p>
 
 ---
 
-### 🔒 Secure-Environment (Public)
-A secure and interactive environment built with **Python 2**, featuring an attractive interface and enhanced security features. This project demonstrates my ability to create user-friendly and secure applications.
+### 🧩 Fun Section
 
-- **Technologies Used:** Python 3
-- [View Project](https://github.com/SudipBera083/Secure-Environment)
----
-
-## 📚 Currently Learning
-
-- **IoT (Internet of Things)**
--  **Oracle Cloud**
--  **SQL, PLSQL**
-    
-- Advanced Python and Java concepts
+- 🕹️ Favourite Project: **BonggoQuery (AI Assistant)**  
+- 🎨 Designing my **Web3 Portfolio** with 3D animations  
+- 📸 Fun Fact: I blend coding with storytelling — literally ✨  
 
 ---
 
-## 🤝 Let's Collaborate
+### 🌐 Connect With Me
 
-I'm always open to collaborating on projects related to **Python3 development** and **Java**. If you have an exciting idea or project, feel free to reach out!
-
-📧 **Email:** [sudipbera083@gmail.com](mailto:sudipbera083@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SudipBera083&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://linkedin.com/in/sudipbera083"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SudipBera083"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://sudipbera083.github.io/protfolio/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🌟 Popular Repositories
-
-- [Mini-Projects-in-C](https://github.com/SudipBera083/Mini-Projects-in-C)
-- [Dice Rolling Simulation Game](https://github.com/SudipBera083/Dice-Rolling-Simulation-Game-Using-Python)
-- [Vehicle Management System](https://github.com/SudipBera083/Vehicle-Management)
-
----
-
-## 📫 How to Reach Me
-
-- **Email:** [sudipbera083@gmail.com](mailto:sudipbera083@gmail.com)
-- **LinkedIn:** [a]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sudipbera083/))
-- **Protfolio:** [a]([https://twitter.com/yourhandle](https://sudipbera083.github.io/protfolio/))
-
----
-
-⭐️ **Thanks for visiting my profile!** ⭐️
+⭐️ *“Turning ideas into reality — one line of code at a time.”*  
